@@ -1,0 +1,22 @@
+.menu-ul {
+    margin: 0;
+    padding: 0;
+}
+
+.menu-ul li {
+    line-height: 35px;
+    border-bottom: 1px solid #bababa;
+}
+
+.menu-ul li a {
+    padding-left: 30px;
+    background-color: #fff;
+    height: 35px;
+    line-height: 35px;
+    text-align: left;
+    color: black;
+    display: block;
+    width: auto;
+    text-decoration: none;
+    cursor: pointer;
+}
