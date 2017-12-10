@@ -9,16 +9,11 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>best-web</groupId>
-    <artifactId>github.wingedfish.best</artifactId>
+    <groupId>best-service</groupId>
+    <artifactId>github.wingedfish.best.service</artifactId>
 
 
     <dependencies>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
-
         <!-- https://mvnrepository.com/artifact/redis.clients/jedis -->
         <dependency>
             <groupId>redis.clients</groupId>
